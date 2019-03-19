@@ -1,0 +1,69 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Eugenie081.github" resolutions="1x" timestamp="1553005949243">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4239314861" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="audio-r8-final-compositing-2.mp4" crc="4119938443" seo="true" mt="1533900273000"/>
+    <file name="оленька.mp4" crc="4244910970" seo="true" mt="1498742707000"/>
+    <file name="цветок-.mp4" crc="92203950" seo="true" mt="1498742372000"/>
+    <file name="пёсик-3.afphoto" crc="314472711" seo="true" mt="1498780646000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="sea 7 композиция 3 best-crop-u821.jpg" crc="3800428027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u851-4.png" crc="179575448" ref="index"/>
+    <file name="herzl.png" crc="472691212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1044-19.png" crc="77310902" ref="index"/>
+    <file name="u1052-6.png" crc="4010791437" ref="index"/>
+    <file name="u1048-5.png" crc="314001856" ref="index"/>
+    <file name="серенький.png" crc="86997926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="888.gif" crc="288664033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="4169949689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2345-18.png" crc="3977872219" ref="index"/>
+    <file name="u2340-19.png" crc="53599818" ref="index"/>
+    <file name="u2350-12.png" crc="496624104" ref="index"/>
+    <file name="белый-crop-u2588.jpg" crc="256635541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="белый-crop-u2725.jpg" crc="256635541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="серенький-crop-u2015.png" crc="486384021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="динамик.png" crc="79791863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3972356362" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4210243880" seo="true" mt="1498759103491" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="488388223" seo="true" mt="1498773370004" redirect="true"/>
+</manifest>
